@@ -1,4 +1,4 @@
-# Instrumentación Abierta y de Bajo Costo para la Medición y Control en Ensayos de Pin-on-Disk y Block-on-Ring
+# Diseño, Implementación y Validación de un Shield de Adquisición de Bajo Costo para Ensayos de Desgaste
 
 ## Autores
 
@@ -15,7 +15,7 @@
 - **Maximiliano Zanin**  
     LEDFS, UTN FRH  
     Haedo, Argentina  
-    nurbano@frh.utn.edu.ar
+    mzanin@frh.utn.edu.ar
 
 ---
 
