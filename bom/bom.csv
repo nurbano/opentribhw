@@ -1,0 +1,16 @@
+Id;Identificador;Huella;Cantidad;Identificación;Suministrador y ref
+1;D1,D2;D_DO-41_SOD81_P10.16mm_Horizontal;2;1N4007;
+2;K1,K2;Relay_DPDT_Omron_G6A;2;Relay_DPDT;
+3;U1,U4,U2,U5;DIP-4_W7.62mm;4;PC817;
+4;R3,R4;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;2;500;
+5;R1,R11,R2,R14,R8,R12,R13,R7;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;8;1k;
+6;R5;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;1;10k;
+7;R6,R10,R9;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;3;100;
+8;J1,J3;Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical;2;Conn_01x04_Pin;
+9;J6,J9,J7,J8;TerminalBlock_Altech_AK300-3_P5.00mm;4;Screw_Terminal_01x03;
+10;Q4,Q3;TO-220-3_Vertical;2;IRF540N;
+11;J5,J2;PinHeader_1x04_P2.54mm_Vertical;2;Conn_01x04_Pin;
+12;J11,J10;PinHeader_2x02_P2.54mm_Vertical;2;Conn_02x02_Counter_Clockwise;
+13;Q2,Q1;TO-92_Inline;2;BC547;
+14;J4;Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical;1;Conn_01x03_Pin;
+15;A1;Arduino_UNO_R3;1;Arduino_UNO_R3;
